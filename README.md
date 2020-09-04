@@ -14,4 +14,4 @@
 <!--END_SECTION:waka-->
 
 ---
-[![Spotify](https://spotify-on-github.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
+[![Spotify](https://spotify-on-github-git-master.shirzartenwer.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
