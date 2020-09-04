@@ -9,9 +9,8 @@
 
 [![shizzy's github stats](https://github-readme-stats.vercel.app/api?username=shirzartenwer)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
 [![Spotify](https://spotify-on-github-git-master.shirzartenwer.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
