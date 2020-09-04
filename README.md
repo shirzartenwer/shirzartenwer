@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Chinese History, Uyghur history, Design Thinking techniques
 - 😄 Pronouns: Basketball, Reading, Swimming
 - ⚡ Fun fact: I come from the city which has longest distance to any sea in the world.
--->
+
 
 ---
