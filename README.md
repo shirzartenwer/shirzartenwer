@@ -14,4 +14,4 @@
 <!--END_SECTION:waka-->
 
 ---
-[![Spotify](https://shizzy.vercel.app/api/spotify)](https://open.spotify.com/user/shizzyarslan)
+[![Spotify](https://shizzy.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
