@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I come from the city which has longest distance to any sea in the world.
 -->
 
+---
+
 [![Shirzart's github stats](https://github-readme-stats.vercel.app/api?username=shirzartenwer)](https://github.com/anuraghazra/github-readme-stats)
