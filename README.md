@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shirzartenwer/shirzartenwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I am a fresh engineering graduate passionate in entrepreneurship
 - :bar_chart: I’m currently working on backend development and data analytics.
 - 🌱 I’m currently learning building a startup, German language
