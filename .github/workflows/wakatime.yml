@@ -3,7 +3,7 @@ name: wakatime
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '0 12 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
