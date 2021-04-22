@@ -9,7 +9,10 @@
 
 
 <!--START_SECTION:waka-->
-<img src="https://github.com/shirzartenwer/shirzartenwer/blob/master/images/stat.svg" alt="Shirzart's WakaTime Activity"/>
+```text
+Python     19 hrs 17 mins  ████████████████████████▒   97.22 % 
+JSON       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+```
 <!--END_SECTION:waka-->
 
 [![Spotify](https://spotify-on-github-git-master.shirzartenwer.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
