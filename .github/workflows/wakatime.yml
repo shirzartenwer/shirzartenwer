@@ -1,6 +1,6 @@
 name: wakatime
 
-on:
+on: 
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: '0 0 * * *'
