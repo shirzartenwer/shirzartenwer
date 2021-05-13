@@ -13,11 +13,11 @@ The following stats integrates the contribution from my personal account and my 
 
 <!--START_SECTION:waka-->
 ```text
-Python     13 hrs 38 mins  █████████████████████░░░░   83.81 % 
-Markdown   1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JSON       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-INI        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python     13 hrs 21 mins  ████████████████████▒░░░░   80.92 % 
+Markdown   1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+JSON       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Text       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+INI        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
