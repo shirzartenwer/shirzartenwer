@@ -13,9 +13,7 @@ The following stats integrates the contribution from my personal account and my 
 
 <!--START_SECTION:waka-->
 ```text
-Python     2 hrs 28 mins   ████████████████████████░   96.64 % 
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+
 ```
 <!--END_SECTION:waka-->
 
