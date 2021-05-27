@@ -13,7 +13,7 @@ The following stats integrates the contribution from my personal account and my 
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
