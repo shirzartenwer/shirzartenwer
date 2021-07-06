@@ -8,7 +8,7 @@
 
 [![shizzy's github stats](https://github-readme-stats.vercel.app/api?username=shirzartenwer)](https://github.com/anuraghazra/github-readme-stats)
 
-The following stats integrates the contribution from my personal account and my professional account(http://github.com/aniwax). 
+The following stats is my coding activies of last week, which integrates the contribution from my personal account and my professional account(http://github.com/aniwax). 
 
 
 <!--START_SECTION:waka-->
