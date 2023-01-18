@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-## I am a fresh engineering graduate passionate in entrepreneurship
+## I am a software engineer developing simulation software in machining
 - :bar_chart: I’m currently working on backend development and data analytics.
-- 🌱 I’m currently learning building a startup, German language
+Most of the development I do professionaly is under this account (http://github.com/aniwax). We are building and maintaining a simulation software built based on python. 
+
+- 🌱 I’m currently learning and implementing DevOps knowledge and skills
 - :dart: My goal is to find a job in tech and become a startup founder.
 
 
