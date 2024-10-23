@@ -14,5 +14,10 @@ The following stats is my coding activies of last week, which integrates the con
 
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 [![Spotify](https://spotify-on-github-git-master.shirzartenwer.vercel.app/api/spotify)](https://open.spotify.com/user/21j6s322bjrhxlx67pyzkc4ki)
