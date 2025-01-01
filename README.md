@@ -16,11 +16,9 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-JSON     9 mins          ██████████▒░░░░░░░░░░░░░░   41.43 %
-Docker   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
-YAML     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Other    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON     4 mins          ██████████████████████▒░░   89.30 %
+Docker   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
