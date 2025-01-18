@@ -17,11 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Docker       23 mins         █████████▒░░░░░░░░░░░░░░░   37.56 %
-Other        17 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
-JSON         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-JavaScript   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-TypeScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Python       51 mins         ███████████▒░░░░░░░░░░░░░   45.11 %
+Docker       23 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Other        17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
