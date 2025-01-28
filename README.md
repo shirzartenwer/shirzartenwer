@@ -17,7 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 10 mins    █████████████████████████   100.00 %
+Python       1 hr 18 mins    ███████████████████████▒░   93.84 %
+SCSS         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
