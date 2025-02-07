@@ -17,11 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    9 hrs 3 mins    █████████████████████░░░░   83.94 %
-CSS           1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Git Config    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-TSConfig      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JavaScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript    6 hrs 26 mins   ██████████████████████░░░   87.35 %
+CSS           55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
