@@ -17,11 +17,9 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 59 mins    ██████████████▒░░░░░░░░░░   57.09 %
-C++          59 mins         ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+C++          59 mins         █████████████████░░░░░░░░   68.63 %
+JavaScript   25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.84 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
