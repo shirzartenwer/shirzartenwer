@@ -17,11 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 37 mins   ████████████████████▓░░░░   82.13 %
-C++      51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Text     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   3 hrs 48 mins   ███████████████████▓░░░░░   79.12 %
+C++      51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+Text     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
