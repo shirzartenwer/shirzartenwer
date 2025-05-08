@@ -17,9 +17,8 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 10 mins   ████████████████████████▓   98.69 %
-TeX      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python   1 hr 40 mins    ████████████████████████▒   97.89 %
+TeX      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
