@@ -17,11 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-C++           28 mins         █████████████████▓░░░░░░░   71.24 %
-CMake         8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Objective-C   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Gherkin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++          30 mins         ████████████████▓░░░░░░░░   66.83 %
+CMake        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Gherkin      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
