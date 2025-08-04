@@ -17,9 +17,7 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-JSON     13 mins         ██████████████████████▒░░   89.32 %
-Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Docker   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
