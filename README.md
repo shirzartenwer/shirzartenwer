@@ -17,8 +17,11 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 32 mins    ████████████████████████░   95.53 %
-CSV      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Python   1 hr 32 mins    █████████████████████▒░░░   85.60 %
+JSON     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+CSV      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
