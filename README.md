@@ -17,11 +17,9 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 37 mins    ██████████▓░░░░░░░░░░░░░░   42.48 %
-Markdown     1 hr 3 mins     ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Docker       35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-TOML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python     49 mins         ███████████████████████▒░   93.53 %
+Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
