@@ -17,7 +17,9 @@ The following stats is my coding activies of last week, which integrates the con
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   54 mins         ███████████████████▒░░░░░   76.81 %
+HTML       16 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
